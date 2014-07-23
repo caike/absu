@@ -1,6 +1,6 @@
 # Absu
 
-A wrapper for Node's [http.request](http://nodejs.org/api/http.html#http_http_request_options_callback) which exposes a streaming API.
+A wrapper for Node's [http.get](http://nodejs.org/api/http.html#http_http_get_options_callback) which exposes a streaming API.
 
 ## Installation
 
